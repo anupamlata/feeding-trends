@@ -1,0 +1,19 @@
+.toggle {
+    text-align: center;
+    padding: 50px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .para{
+    font-size: large;
+    font-weight: 600;
+  }
+  
